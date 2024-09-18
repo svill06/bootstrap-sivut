@@ -8,4 +8,20 @@ h2 {
     padding-bottom: 1rem;
     text-align: center;
 }
+*{
+    padding: 0;
+    margin: 0;
+}
 
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+  .custom-divider {
+    border: 0;
+    height: 5px; 
+    background-color: #ffffff; 
+    width: 100%; 
+    margin: 8rem auto; 
+  }
